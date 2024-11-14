@@ -1,0 +1,10 @@
+body{
+    margin: 0;
+}
+#game-container{
+    /* background-color: red; */
+    background-image: url("/assets/images/bg-snack.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
